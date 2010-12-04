@@ -1,0 +1,5 @@
+﻿This dataset contains the gold standard of the gender expectations of actions as it is used in Herdağdelen and Baroni (2010).
+
+Each line contains one string and 6 integers. The string is a underscore-joined version of the action and the integers correspond to the number of raters who picked the given option for the action.
+
+Reference: A. Herda˘gdelen, M. Baroni (2010). Stereotypical gender actions can be extracted from Web text (Submmited for review).
